@@ -1,5 +1,4 @@
 //Chave para certificado é Expert
-const a = ""
 const perguntas = [
     {
         pergunta: "Qual é a linguagem de programação padrão para desenvolvimento web?",
