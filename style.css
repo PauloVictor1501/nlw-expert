@@ -19,6 +19,7 @@ img{
     margin: auto;
     margin-bottom: 40px;
     margin-top: 0px;
+    justify-content: center;
 }
 body{
     color: white;
