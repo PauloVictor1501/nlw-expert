@@ -117,6 +117,8 @@ input:checked:before{
     background-color: #000000;
     border-radius: 50%;
 
+    cursor: pointer;
+
 }
 
 #acertos{
@@ -137,8 +139,4 @@ footer {
     text-align: center;
     font-style: italic;
     margin-top: 50px;
-}
-
-section{
-    color: white;
 }
